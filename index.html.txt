@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bojangles Menu with Prices – A Complete Guide</title>
+  <meta name="description" content="Explore the full Bojangles menu with prices including breakfast, chicken, family meals, sides, and sweet treats. A complete guide for food lovers.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #fffdf9;
+      color: #222;
+    }
+    h1, h2 {
+      color: #b22222;
+    }
+    a {
+      color: #d9534f;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Bojangles Menu with Prices – A Complete Guide</h1>
+
+  <p>When it comes to Southern comfort food, Bojangles is a name that stands out. Famous for its Cajun-seasoned fried chicken, buttermilk biscuits, and flavorful sides, Bojangles has become a favorite destination for families and food lovers across the United States. If you are planning to visit Bojangles or order online, knowing the updated 
+    <a href="https://bojanglesmenuprices.us/">Bojangles Menu with Prices</a> 
+    can help you decide what to enjoy without any surprises. In this article, we’ll walk through Bojangles’ most popular categories, their price ranges, and what makes each item special.
+  </p>
+
+  <h2>Bojangles Breakfast Menu with Prices</h2>
+  <ul>
+    <li>Bacon, Egg & Cheese Biscuit – $3.49</li>
+    <li>Sausage Biscuit – $1.99</li>
+    <li>Steak Biscuit – $3.79</li>
+    <li>Cajun Filet Biscuit Combo – $5.79</li>
+    <li>Bo-Berry Biscuit (2 pcs) – $1.49</li>
+  </ul>
+  <p>The breakfast combos usually come with a side (like Bo-Tato Rounds) and a drink, making them hearty and filling. Bojangles’ biscuits are baked fresh every 20 minutes, so you’ll always get them warm and soft.</p>
+
+  <h2>Bojangles Chicken Menu with Prices</h2>
+  <ul>
+    <li>2-Piece Chicken Dinner – $6.99</li>
+    <li>3-Piece Chicken Dinner – $7.99</li>
+    <li>4-Piece Chicken Dinner – $9.49</li>
+    <li>Bo’s Chicken Tenders (4 pcs) – $6.29</li>
+    <li>Cajun Filet Sandwich Combo – $6.99</li>
+  </ul>
+  <p>Each chicken dinner is served with a Made-from-Scratch Biscuit and one or two sides. Their unique seasoning gives the chicken a bold, zesty flavor you won’t find at typical fast-food chains.</p>
+
+  <h2>Bojangles Family Meals with Prices</h2>
+  <ul>
+    <li>8-Piece Tailgate Special – $19.99</li>
+    <li>12-Piece Super Tailgate Special – $29.99</li>
+    <li>20-Piece Jumbo Tailgate – $39.99</li>
+    <li>Family Variety Feast – $27.99</li>
+  </ul>
+  <p>These meals include chicken, biscuits, and large fixin’s (sides). The bigger the box, the more you save. Perfect for game nights, picnics, or family dinners.</p>
+
+  <h2>Bojangles Sides and Fixins with Prices</h2>
+  <ul>
+    <li>Dirty Rice – $1.99 (small), $3.79 (large)</li>
+    <li>Cajun Pintos – $1.99 (small), $3.79 (large)</li>
+    <li>Cole Slaw – $1.89 (small), $3.49 (large)</li>
+    <li>Macaroni & Cheese – $1.99 (small), $3.99 (large)</li>
+    <li>Seasoned Fries – $1.89 (small), $2.99 (large)</li>
+  </ul>
+  <p>These sides complement the bold flavors of Bojangles chicken and are a must-try for first-timers.</p>
+
+  <h2>Bojangles Sweet Treats & Beverages with Prices</h2>
+  <ul>
+    <li>Bo-Berry Biscuit (2 pcs) – $1.49</li>
+    <li>Cinnamon Pecan Twist – $1.29</li>
+    <li>Iced Tea (Legendary Sweet Tea) – $1.89 (small), $2.39 (large)</li>
+    <li>Soft Drinks – $1.79 (small), $2.19 (large)</li>
+  </ul>
+  <p>Their Legendary Sweet Tea is freshly steeped daily and has become as iconic as their chicken and biscuits.</p>
+
+  <h2>Why Choose Bojangles?</h2>
+  <p>What sets Bojangles apart from other fast-food chains is its unique Southern flavor. Their chicken is marinated for 12 hours, biscuits are baked fresh all day, and the sides taste homemade. Whether you’re stopping in for a quick breakfast biscuit or ordering a family meal, you get quality food at reasonable prices.</p>
+
+  <h2>Final Thoughts</h2>
+  <p>If you’re looking for delicious Southern-style food without breaking the bank, the Bojangles menu with prices offers something for everyone. From hearty breakfast biscuits and crispy Cajun chicken to family tailgate meals and sweet treats, Bojangles continues to satisfy cravings across America. Next time you’re hungry, try exploring different items from their menu — and don’t forget the Legendary Sweet Tea!</p>
+
+</body>
+</html>
